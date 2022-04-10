@@ -5,6 +5,9 @@ not.
 
 Developed by: **David Razmadze**
 
+<img width="555" alt="Screen Shot 2022-04-10 at 5 50 18 PM" src="https://user-images.githubusercontent.com/36372968/162641377-80854339-4608-4436-b3bf-c1218d3a451a.png">
+
+
 <hr />
 
 ## 1. Front-end ReactJS App
